@@ -45,7 +45,7 @@ jobs:
           theme = 'paper'
           
           [params]
-            github = '[你的用户名]'
+            github = '1472800266'
             rss = true
             color = 'linen'
             
