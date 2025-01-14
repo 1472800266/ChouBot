@@ -38,7 +38,7 @@ jobs:
         run: |
           # 创建 Hugo 站点配置
           cat > config.toml <<EOL
-          baseURL = 'https://1472800266.github.io/Articles/'
+          baseURL = 'https://1472800266.github.io/ChouBot/'
           # 后续如果要自定义域名需要改为baseURL = 'https://example.com/'
           languageCode = 'zh-cn'
           title = 'Articles'
